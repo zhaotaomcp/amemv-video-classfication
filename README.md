@@ -1,2 +1,1 @@
-# dl4j-image
-image classification by dl4j
+Classfy the girls video to 3 class:sexy girl, common girl, not girl
